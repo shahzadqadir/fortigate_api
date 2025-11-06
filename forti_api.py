@@ -1,3 +1,5 @@
+# Part of Full Stack Automation Book by Shahzad Qadir
+
 import requests
 
 class FortiAPI:
