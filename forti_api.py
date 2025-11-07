@@ -29,5 +29,5 @@ class FortiAPI:
 
 
 if __name__ == "__main__":
-    api_obj = FortiAPI("501y5grjddx5rHf6mQcc4G8N9kgz0k", "10.10.99.1")
+    api_obj = FortiAPI("xxxx", "x.x.x.x")
     api_obj.print_interfaces()
